@@ -1,0 +1,29 @@
+{
+  "packs": [
+    {
+      "id": "site-f6fe69c9",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-11",
+          "changelog": "",
+          "files": [
+            {
+              "path": "mods/trueexcalibur-1.0.0.jar",
+              "url": "https://animazeros.github.io/packs/site-f6fe69c9/files/mods/trueexcalibur-1.0.0.jar",
+              "sha1": "e0c03810fd2aab13a32283e5af564506b9500878",
+              "size": 68833
+            }
+          ],
+          "overrides": "https://animazeros.github.io/packs/site-f6fe69c9/1.0.0-overrides.zip"
+        }
+      ],
+      "name": "grae",
+      "minecraft": "1.20.1",
+      "loader": {
+        "type": "forge",
+        "version": "47.4.28"
+      }
+    }
+  ]
+}
