@@ -24,6 +24,115 @@
         "type": "forge",
         "version": "47.4.28"
       }
+    },
+    {
+      "id": "site-06455e1b",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-12",
+          "changelog": "1.12",
+          "files": [
+            {
+              "path": "mods/applied-botanics-forge-1.5.2.jar",
+              "url": "https://cdn.modrinth.com/data/545hUrw9/versions/ByiqRpj3/applied-botanics-forge-1.5.2.jar",
+              "sha1": "4129b8379681449779803319a8a8a34e0435084b",
+              "size": 255276
+            },
+            {
+              "path": "mods/appliedenergistics2-forge-15.4.12.jar",
+              "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/QRpVsqDI/appliedenergistics2-forge-15.4.12.jar",
+              "sha1": "4e81984691e35c729880a11f72deb52dcc74d41f",
+              "size": 8501298
+            },
+            {
+              "path": "mods/architectury-9.2.14-forge.jar",
+              "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+              "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+              "size": 580602
+            },
+            {
+              "path": "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+              "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/7eS5OIHj/Bookshelf-Forge-1.20.1-20.2.15.jar",
+              "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+              "size": 343925
+            },
+            {
+              "path": "mods/Botania-1.20.1-456-FORGE.jar",
+              "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/npY4sRWF/Botania-1.20.1-456-FORGE.jar",
+              "sha1": "17e0cab4160e86f434cd137a60faeb2594ae4e15",
+              "size": 12226445
+            },
+            {
+              "path": "mods/BotanyPots-Forge-1.20.1-13.0.43.jar",
+              "url": "https://cdn.modrinth.com/data/U6BUTZ7K/versions/GHNPFUnp/BotanyPots-Forge-1.20.1-13.0.43.jar",
+              "sha1": "36d5c12071293df90a3599df6076b974e94b26d3",
+              "size": 1050211
+            },
+            {
+              "path": "mods/BotanyTrees-Forge-1.20.1-9.0.20.jar",
+              "url": "https://cdn.modrinth.com/data/mvs7RoIW/versions/YykwyB9c/BotanyTrees-Forge-1.20.1-9.0.20.jar",
+              "sha1": "de22565d05cfb2b9995ae622055e592b5c8f0a9a",
+              "size": 261756
+            },
+            {
+              "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+              "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+              "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+              "size": 398066
+            },
+            {
+              "path": "mods/guideme-20.1.15.jar",
+              "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/i7Tp1AHw/guideme-20.1.15.jar",
+              "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
+              "size": 9414827
+            },
+            {
+              "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9jqubC9n/jei-1.20.1-forge-15.56.0.205.jar",
+              "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
+              "size": 1778129
+            },
+            {
+              "path": "mods/kubejs_botania-1.4.0-forge.jar",
+              "url": "https://animazeros.github.io/packs/site-06455e1b/files/mods/kubejs_botania-1.4.0-forge.jar",
+              "sha1": "0f1f202f213b781f504f05ea22936f62a5c4b59d",
+              "size": 28516
+            },
+            {
+              "path": "mods/kubejs-forge-2001.6.5-build.26.jar",
+              "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/hVR2xUSr/kubejs-forge-2001.6.5-build.26.jar",
+              "sha1": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae",
+              "size": 1658792
+            },
+            {
+              "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+              "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+              "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+              "size": 642732
+            },
+            {
+              "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+              "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar",
+              "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+              "size": 1798244
+            },
+            {
+              "path": "mods/trueexcalibur-1.0.0.jar",
+              "url": "https://animazeros.github.io/packs/site-06455e1b/files/mods/trueexcalibur-1.0.0.jar",
+              "sha1": "e0c03810fd2aab13a32283e5af564506b9500878",
+              "size": 68833
+            }
+          ],
+          "overrides": "https://animazeros.github.io/packs/site-06455e1b/1.0.0-overrides.zip"
+        }
+      ],
+      "name": "sborka",
+      "minecraft": "1.20.1",
+      "loader": {
+        "type": "forge",
+        "version": "47.4.28"
+      }
     }
   ]
 }
