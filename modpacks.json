@@ -1,3 +1,1664 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "id": "site-e84e90e6",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-22",
+          "changelog": "1",
+          "files": [
+            {
+              "path": "mods/adastra-1.21.1-1.16.26-neoforge.jar",
+              "sha1": "b6c4560cc625a6847e016af576954ff1f0431d99",
+              "size": 7301791,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b6c4560cc625a6847e016af576954ff1f0431d99/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b6c4560cc625a6847e016af576954ff1f0431d99/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b6c4560cc625a6847e016af576954ff1f0431d99/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b6c4560cc625a6847e016af576954ff1f0431d99/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b6c4560cc625a6847e016af576954ff1f0431d99/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b6c4560cc625a6847e016af576954ff1f0431d99/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b6c4560cc625a6847e016af576954ff1f0431d99/6"
+              ]
+            },
+            {
+              "path": "mods/AdvancedAE-1.6.12-1.21.1.jar",
+              "sha1": "9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3",
+              "size": 4791255,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3/4"
+              ]
+            },
+            {
+              "path": "mods/AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar",
+              "sha1": "81974fbd6bb03193be8310b31b6879d0fe4169e4",
+              "size": 270853
+            },
+            {
+              "path": "mods/AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar",
+              "sha1": "d640286f05ff6417af467ba25e92f7f879cd888d",
+              "size": 730220
+            },
+            {
+              "path": "mods/ae2ct-1.21.1-1.1.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ae2ct-1.21.1-1.1.1.jar",
+              "sha1": "2e425a9dc8891bdcd3b2914506d1bc33414b61be",
+              "size": 437906
+            },
+            {
+              "path": "mods/ae2importexportcard-1.21.1-1.9.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ae2importexportcard-1.21.1-1.9.1.jar",
+              "sha1": "1b4fdfe01206524912fea28b7dea9e9449673018",
+              "size": 688670
+            },
+            {
+              "path": "mods/AE2-Things-1.4.2-beta.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/AE2-Things-1.4.2-beta.jar",
+              "sha1": "593ad26ae4143f529a63cc63b96c6430ebba67c3",
+              "size": 66034
+            },
+            {
+              "path": "mods/ae2wtlib-19.5.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ae2wtlib-19.5.1.jar",
+              "sha1": "b1bee01393b15f1eb0f46d58862ef99234e1d337",
+              "size": 252091
+            },
+            {
+              "path": "mods/aeinfinitybooster-neoforge-2.1.2-mc1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/aeinfinitybooster-neoforge-2.1.2-mc1.21.1.jar",
+              "sha1": "8a4ba3b0cb8fedb499aa32f63d9e31077c934401",
+              "size": 42287
+            },
+            {
+              "path": "mods/AI-Improvements-1.21-0.5.3.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/AI-Improvements-1.21-0.5.3.jar",
+              "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45",
+              "size": 28984
+            },
+            {
+              "path": "mods/allthearcanistgear-1.21.1-21.3.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/allthearcanistgear-1.21.1-21.3.2.jar",
+              "sha1": "00298152fb92d382e1659e9c21235ecc44a03433",
+              "size": 375904
+            },
+            {
+              "path": "mods/Apotheosis-1.21.1-8.9.0.jar",
+              "sha1": "2d8b59070a221bcc2e3ea08b3b48cbf034b77c71",
+              "size": 7184314,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/2d8b59070a221bcc2e3ea08b3b48cbf034b77c71/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/2d8b59070a221bcc2e3ea08b3b48cbf034b77c71/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/2d8b59070a221bcc2e3ea08b3b48cbf034b77c71/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/2d8b59070a221bcc2e3ea08b3b48cbf034b77c71/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/2d8b59070a221bcc2e3ea08b3b48cbf034b77c71/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/2d8b59070a221bcc2e3ea08b3b48cbf034b77c71/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/2d8b59070a221bcc2e3ea08b3b48cbf034b77c71/6"
+              ]
+            },
+            {
+              "path": "mods/ApothicAttributes-1.21.1-2.11.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ApothicAttributes-1.21.1-2.11.0.jar",
+              "sha1": "7ff0e452e10cb582c188626a413037e63db9ca04",
+              "size": 319609
+            },
+            {
+              "path": "mods/ApothicEnchanting-1.21.1-1.6.4.jar",
+              "sha1": "d88e75b60e97dae8054ee10f3a92aa2bb812b8b9",
+              "size": 5422885,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/d88e75b60e97dae8054ee10f3a92aa2bb812b8b9/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/d88e75b60e97dae8054ee10f3a92aa2bb812b8b9/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/d88e75b60e97dae8054ee10f3a92aa2bb812b8b9/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/d88e75b60e97dae8054ee10f3a92aa2bb812b8b9/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/d88e75b60e97dae8054ee10f3a92aa2bb812b8b9/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/d88e75b60e97dae8054ee10f3a92aa2bb812b8b9/5"
+              ]
+            },
+            {
+              "path": "mods/ApothicSpawners-1.21.1-1.4.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ApothicSpawners-1.21.1-1.4.0.jar",
+              "sha1": "b3be29751daea738e691db8949cce079e5aae3be",
+              "size": 129784
+            },
+            {
+              "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+              "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+              "size": 75804
+            },
+            {
+              "path": "mods/appliedbotanicalmachinery-1.21.1-1.1.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/appliedbotanicalmachinery-1.21.1-1.1.1.jar",
+              "sha1": "23c81f9740f1e246daf3f0ab92ed8577f04bd82b",
+              "size": 1760500
+            },
+            {
+              "path": "mods/appliedenergistics2-19.2.19.jar",
+              "sha1": "aa28d9d98d400fa9a191456bb14a433a3a2f6bfc",
+              "size": 8238387,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa28d9d98d400fa9a191456bb14a433a3a2f6bfc/7"
+              ]
+            },
+            {
+              "path": "mods/AppliedFlux-1.21-2.1.7-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/AppliedFlux-1.21-2.1.7-neoforge.jar",
+              "sha1": "46080cef7d9cbf6d2bf6356d97838df03ff1e40c",
+              "size": 351056
+            },
+            {
+              "path": "mods/Applied-Mekanistics-1.6.3.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Applied-Mekanistics-1.6.3.jar",
+              "sha1": "bec4a47269ec23bca2329742e13409bfde69c5c3",
+              "size": 149709
+            },
+            {
+              "path": "mods/architectury-13.0.11-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/architectury-13.0.11-neoforge.jar",
+              "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+              "size": 584734
+            },
+            {
+              "path": "mods/ars_elemental-1.21.1-0.7.10.4.jar",
+              "sha1": "562f640916aa6f5c83b3b3ee2384ca828b870e01",
+              "size": 2273778,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/562f640916aa6f5c83b3b3ee2384ca828b870e01/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/562f640916aa6f5c83b3b3ee2384ca828b870e01/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/562f640916aa6f5c83b3b3ee2384ca828b870e01/2"
+              ]
+            },
+            {
+              "path": "mods/ars_nouveau-1.21.1-5.13.5.jar",
+              "sha1": "cdc946c63e1eb676f0e29e4640335c0ce68d7de3",
+              "size": 19874860,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/10",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/11",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/12",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/13",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/14",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/15",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/16",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/17",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cdc946c63e1eb676f0e29e4640335c0ce68d7de3/18"
+              ]
+            },
+            {
+              "path": "mods/AsyncParticles-21.1.4.13-1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/AsyncParticles-21.1.4.13-1.21.1.jar",
+              "sha1": "28f966b24b5925793d80c5356a80c34987571a71",
+              "size": 1333080
+            },
+            {
+              "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/athena-neoforge-1.21.1-4.0.6.jar",
+              "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b",
+              "size": 99944
+            },
+            {
+              "path": "mods/attributefix-neoforge-1.21.1-21.1.3.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/attributefix-neoforge-1.21.1-21.1.3.jar",
+              "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
+              "size": 19809
+            },
+            {
+              "path": "mods/balm-neoforge-1.21.1-21.0.67.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/balm-neoforge-1.21.1-21.0.67.jar",
+              "sha1": "68c95ca8a6a87d26199d43ff6978bc94949329e3",
+              "size": 786010
+            },
+            {
+              "path": "mods/better-advanced-tooltips-2101.1.0-build.5.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/better-advanced-tooltips-2101.1.0-build.5.jar",
+              "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
+              "size": 37653
+            },
+            {
+              "path": "mods/betterfpsdist-1.21.1-6.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/betterfpsdist-1.21.1-6.1.jar",
+              "sha1": "9c499f5133ebeed43da4ce42d48bf747cead6d24",
+              "size": 23505
+            },
+            {
+              "path": "mods/blockui-1.0.209-1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/blockui-1.0.209-1.21.1.jar",
+              "sha1": "01cba16a7d71521b81d791a07740464e6d70d0a6",
+              "size": 468001
+            },
+            {
+              "path": "mods/bobby_reneoforged-5.2.4-0.4+mc1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/bobby_reneoforged-5.2.4-0.4%2Bmc1.21.jar",
+              "sha1": "42879aedd7eeb476a02f077807f06981d5db3930",
+              "size": 1199051
+            },
+            {
+              "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+              "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+              "size": 328813
+            },
+            {
+              "path": "mods/born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+              "sha1": "73704f38ac368c03716f9cc8f537470d3b352fa2",
+              "size": 11842184,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/10",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/73704f38ac368c03716f9cc8f537470d3b352fa2/11"
+              ]
+            },
+            {
+              "path": "mods/botania-mana-greenhouse-1.8.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/botania-mana-greenhouse-1.8.2.jar",
+              "sha1": "618ca62b041e0d4d69d5600570e829a50278cbb3",
+              "size": 383162
+            },
+            {
+              "path": "mods/Botania-Revived-1.21.1-2.0.2-NeoForge.jar",
+              "sha1": "b333e5ac4fd55b0e8822238ced0b25b193db9628",
+              "size": 15023013,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/10",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/11",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/12",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/13",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b333e5ac4fd55b0e8822238ced0b25b193db9628/14"
+              ]
+            },
+            {
+              "path": "mods/botanypotsmystical-neoforge-1.21.1-21.1.12.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/botanypotsmystical-neoforge-1.21.1-21.1.12.jar",
+              "sha1": "73ee9e944ddca5d70b9224d96d8208bd43cc4531",
+              "size": 89696
+            },
+            {
+              "path": "mods/botanypots-neoforge-1.21.1-21.1.44.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/botanypots-neoforge-1.21.1-21.1.44.jar",
+              "sha1": "fcb58dfa5f52819c85da40025fa50d0ddccbbb47",
+              "size": 1068816
+            },
+            {
+              "path": "mods/botanytrees-neoforge-1.21.1-21.1.7.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/botanytrees-neoforge-1.21.1-21.1.7.jar",
+              "sha1": "9ed861d8a2405cfa75a9ef677f9d99eb5deed73f",
+              "size": 341853
+            },
+            {
+              "path": "mods/BrandonsCore-1.21.1-3.2.1.309.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/BrandonsCore-1.21.1-3.2.1.309.jar",
+              "sha1": "ef00bdaaca4e469cc3925d573434d2f84b9d8a14",
+              "size": 1385131
+            },
+            {
+              "path": "mods/buildinggadgets2-21.1.1.jar",
+              "sha1": "85512ea14d1b7cfd9709649568cda158f5bcdac8",
+              "size": 3861286,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/85512ea14d1b7cfd9709649568cda158f5bcdac8/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/85512ea14d1b7cfd9709649568cda158f5bcdac8/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/85512ea14d1b7cfd9709649568cda158f5bcdac8/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/85512ea14d1b7cfd9709649568cda158f5bcdac8/3"
+              ]
+            },
+            {
+              "path": "mods/camera-neoforge-1.21.1-1.0.22.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/camera-neoforge-1.21.1-1.0.22.jar",
+              "sha1": "79c6969bfad4e3b903ba247ebb1f64882ef09aa3",
+              "size": 307439
+            },
+            {
+              "path": "mods/chunksending-1.21-4.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/chunksending-1.21-4.1.jar",
+              "sha1": "bb408feaf8f1e7b9f375475f87a4d96fe781af71",
+              "size": 27213
+            },
+            {
+              "path": "mods/cloth-config-15.0.140-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/cloth-config-15.0.140-neoforge.jar",
+              "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+              "size": 1163890
+            },
+            {
+              "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+              "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+              "size": 18382
+            },
+            {
+              "path": "mods/CodeChickenLib-1.21.1-4.6.1.529.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/CodeChickenLib-1.21.1-4.6.1.529.jar",
+              "sha1": "354d850ca72568b88d67e3c903efced7e62dc90f",
+              "size": 1538382
+            },
+            {
+              "path": "mods/collective-1.21.1-8.86.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/collective-1.21.1-8.86.jar",
+              "sha1": "91f6a5c0ea671349b710a34810160abfb5dcc4c0",
+              "size": 1633821
+            },
+            {
+              "path": "mods/common-storage-lib-neoforge-1.21.1-0.0.10.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/common-storage-lib-neoforge-1.21.1-0.0.10.jar",
+              "sha1": "e0ba85038480d50a3816d5920014bfcccdbe7329",
+              "size": 309860
+            },
+            {
+              "path": "mods/ConstructionWandsRevived-1.21.1-4.0.14-NeoForge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ConstructionWandsRevived-1.21.1-4.0.14-NeoForge.jar",
+              "sha1": "c7e7c0c1e68121bbee13003591b1a669ad60fb4e",
+              "size": 498193
+            },
+            {
+              "path": "mods/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+              "sha1": "ddc2b4d7b2d5cc48283c251d39aa03897318be7f",
+              "size": 1266042
+            },
+            {
+              "path": "mods/craftstudio-1.2.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/craftstudio-1.2.0.jar",
+              "sha1": "8eb372b81f0bed2ee8ec2ec044c7d94868acfc22",
+              "size": 73345
+            },
+            {
+              "path": "mods/Cucumber-1.21.1-8.0.16.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Cucumber-1.21.1-8.0.16.jar",
+              "sha1": "0e97553af44d39d1976fe6feb4baf1c30c6b2f06",
+              "size": 275588
+            },
+            {
+              "path": "mods/cupboard-1.21.1-4.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/cupboard-1.21.1-4.2.jar",
+              "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b",
+              "size": 30517
+            },
+            {
+              "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
+              "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+              "size": 410690
+            },
+            {
+              "path": "mods/cyclic-1.21.1-1.14.2.jar",
+              "sha1": "cd6e52268adbe99bc2f9b9a4c5f8648752b5cad0",
+              "size": 4496559,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cd6e52268adbe99bc2f9b9a4c5f8648752b5cad0/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cd6e52268adbe99bc2f9b9a4c5f8648752b5cad0/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cd6e52268adbe99bc2f9b9a4c5f8648752b5cad0/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cd6e52268adbe99bc2f9b9a4c5f8648752b5cad0/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/cd6e52268adbe99bc2f9b9a4c5f8648752b5cad0/4"
+              ]
+            },
+            {
+              "path": "mods/darkutils-neoforge-1.21.1-21.1.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/darkutils-neoforge-1.21.1-21.1.1.jar",
+              "sha1": "7a53db19cc8d807bcdb8b30a4f4c373b9bf5c0b2",
+              "size": 201305
+            },
+            {
+              "path": "mods/despawntweaks-neoforge-1.0.0-1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/despawntweaks-neoforge-1.0.0-1.21.1.jar",
+              "sha1": "e85b18cbb8dffd7e6920002c572f52c1de87c794",
+              "size": 458075
+            },
+            {
+              "path": "mods/dimensionalsyncfixes-1.21.1-0.0.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/dimensionalsyncfixes-1.21.1-0.0.1.jar",
+              "sha1": "d0d8c2d8e80a9af1cc6409e7339ae927e29332de",
+              "size": 2753
+            },
+            {
+              "path": "mods/domum-ornamentum-1.0.231-main.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/domum-ornamentum-1.0.231-main.jar",
+              "sha1": "a8ec9660788133676fd440ce6998d813184cd486",
+              "size": 1143596
+            },
+            {
+              "path": "mods/Draconic-Evolution-1.21.1-3.1.4.633.jar",
+              "sha1": "42ccf634a2a167db9cda533507909dd0524f2798",
+              "size": 6046229,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/42ccf634a2a167db9cda533507909dd0524f2798/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/42ccf634a2a167db9cda533507909dd0524f2798/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/42ccf634a2a167db9cda533507909dd0524f2798/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/42ccf634a2a167db9cda533507909dd0524f2798/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/42ccf634a2a167db9cda533507909dd0524f2798/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/42ccf634a2a167db9cda533507909dd0524f2798/5"
+              ]
+            },
+            {
+              "path": "mods/duplicationless-1.21.1-1.2.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/duplicationless-1.21.1-1.2.1.jar",
+              "sha1": "c3f8e32ee4239bb14c11940518085b66ca1cd5f5",
+              "size": 230919
+            },
+            {
+              "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+              "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
+              "size": 220193
+            },
+            {
+              "path": "mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+              "sha1": "4194919ace5fa7764af6f8f0f85500f664e5f0bd",
+              "size": 426439
+            },
+            {
+              "path": "mods/easy-villagers-neoforge-1.21.1-1.1.49.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/easy-villagers-neoforge-1.21.1-1.1.49.jar",
+              "sha1": "bb021918037fb2ceba03456948eaa966c7f28d53",
+              "size": 456636
+            },
+            {
+              "path": "mods/EnderStorage-1.21.1-2.13.0.191.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/EnderStorage-1.21.1-2.13.0.191.jar",
+              "sha1": "5b5fc717242a9eb2d8b4a5e57ea1a38446722864",
+              "size": 264089
+            },
+            {
+              "path": "mods/entangled-1.3.21-neoforge-mc1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/entangled-1.3.21-neoforge-mc1.21.jar",
+              "sha1": "72d63d64ee774b89302e0d6b220757ba11b6ec4f",
+              "size": 130872
+            },
+            {
+              "path": "mods/entityculling-neoforge-1.12.1-mc1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/entityculling-neoforge-1.12.1-mc1.21.1.jar",
+              "sha1": "75671869d5991e7fbeed77f0549501d1368d6f44",
+              "size": 1523607
+            },
+            {
+              "path": "mods/expandedae-2.1.4.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/expandedae-2.1.4.jar",
+              "sha1": "de3fc5d0de3d37e8907ed0dea4ceadb5fafd5098",
+              "size": 526406
+            },
+            {
+              "path": "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+              "sha1": "9f62af344988a6e2d855b113e61cf0e1611c7e0f",
+              "size": 174668
+            },
+            {
+              "path": "mods/explorerscompass-edited-1.21.1-3.0.4-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/explorerscompass-edited-1.21.1-3.0.4-neoforge.jar",
+              "sha1": "c6d513fcc64b8a012745ec2087f4e37c9a591a0a",
+              "size": 169334
+            },
+            {
+              "path": "mods/exposure-neoforge-1.21.1-1.9.21.jar",
+              "sha1": "6964c32c57f27297d2d773b2ff6d43b3807fa32a",
+              "size": 2206630,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/6964c32c57f27297d2d773b2ff6d43b3807fa32a/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/6964c32c57f27297d2d773b2ff6d43b3807fa32a/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/6964c32c57f27297d2d773b2ff6d43b3807fa32a/2"
+              ]
+            },
+            {
+              "path": "mods/ExtendedAE-1.21-2.2.43-neoforge.jar",
+              "sha1": "fa23f057d44cd66c49271f7f0e503e5c9dd5bf14",
+              "size": 5913764,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/fa23f057d44cd66c49271f7f0e503e5c9dd5bf14/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/fa23f057d44cd66c49271f7f0e503e5c9dd5bf14/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/fa23f057d44cd66c49271f7f0e503e5c9dd5bf14/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/fa23f057d44cd66c49271f7f0e503e5c9dd5bf14/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/fa23f057d44cd66c49271f7f0e503e5c9dd5bf14/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/fa23f057d44cd66c49271f7f0e503e5c9dd5bf14/5"
+              ]
+            },
+            {
+              "path": "mods/ExtendedCrafting-1.21.1-7.0.9.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ExtendedCrafting-1.21.1-7.0.9.jar",
+              "sha1": "afdcb086bb3c7b45286c05701bc217c3dd3e4bab",
+              "size": 670886
+            },
+            {
+              "path": "mods/extended-industrialization-1.16.5-1.21.1.jar",
+              "sha1": "5c270f4674b769b713fd78da08640bb1f605065a",
+              "size": 2254555,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/5c270f4674b769b713fd78da08640bb1f605065a/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/5c270f4674b769b713fd78da08640bb1f605065a/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/5c270f4674b769b713fd78da08640bb1f605065a/2"
+              ]
+            },
+            {
+              "path": "mods/ExtraBotany-1.21.1-1.0.2-NeoForge.jar",
+              "sha1": "3146a5a0685eab4196890eb0007e2b8bb417aa4c",
+              "size": 6995834,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/3146a5a0685eab4196890eb0007e2b8bb417aa4c/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/3146a5a0685eab4196890eb0007e2b8bb417aa4c/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/3146a5a0685eab4196890eb0007e2b8bb417aa4c/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/3146a5a0685eab4196890eb0007e2b8bb417aa4c/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/3146a5a0685eab4196890eb0007e2b8bb417aa4c/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/3146a5a0685eab4196890eb0007e2b8bb417aa4c/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/3146a5a0685eab4196890eb0007e2b8bb417aa4c/6"
+              ]
+            },
+            {
+              "path": "mods/ExtraDisks-1.21.1-4.0.15.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ExtraDisks-1.21.1-4.0.15.jar",
+              "sha1": "d2b4a80b1770e8cae2bc233774ed7ed4abd81510",
+              "size": 343628
+            },
+            {
+              "path": "mods/extrasounds-1.5.6+1.21.1-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/extrasounds-1.5.6%2B1.21.1-neoforge.jar",
+              "sha1": "fb22d8c7e6cdf37acaca69b505165ac70ee3d5b9",
+              "size": 376588
+            },
+            {
+              "path": "mods/ExtremeSoundMuffler-3.57_NeoForge-1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ExtremeSoundMuffler-3.57_NeoForge-1.21.jar",
+              "sha1": "c9f51a7a057230ae06ca1e830cad2752dcbfd08b",
+              "size": 270493
+            },
+            {
+              "path": "mods/fadeless-neoforge-1.1.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/fadeless-neoforge-1.1.0.jar",
+              "sha1": "76cb5746d6e93af2c74a06251100aad27363637f",
+              "size": 8701
+            },
+            {
+              "path": "mods/farsight-1.21.1-5.8.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/farsight-1.21.1-5.8.jar",
+              "sha1": "363b601d8f5e0b952d86c4fa7a8459eee76e4332",
+              "size": 31165
+            },
+            {
+              "path": "mods/fastboot-1.21.x-v1.3neo.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/fastboot-1.21.x-v1.3neo.jar",
+              "sha1": "1c9101baf7e4b111fc55e0b5a8687e67be2f626c",
+              "size": 9085
+            },
+            {
+              "path": "mods/fasterladderclimbing-0.2.14.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/fasterladderclimbing-0.2.14.jar",
+              "sha1": "11c268baadfc3daf31ac91135b4f34cf25217a42",
+              "size": 18756
+            },
+            {
+              "path": "mods/FastFurnace-1.21.1-9.0.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/FastFurnace-1.21.1-9.0.1.jar",
+              "sha1": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3",
+              "size": 4623
+            },
+            {
+              "path": "mods/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+              "sha1": "76bf4f0ae0117c86e0d5fda598d459537576ed2e",
+              "size": 98320
+            },
+            {
+              "path": "mods/fastleafdecay-35.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/fastleafdecay-35.jar",
+              "sha1": "589f05dcd58d3708cee9046b23fe11fb81a25d2e",
+              "size": 9511
+            },
+            {
+              "path": "mods/ferritecore-7.0.3-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ferritecore-7.0.3-neoforge.jar",
+              "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+              "size": 121559
+            },
+            {
+              "path": "mods/flib-1.21.1-0.2.9.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/flib-1.21.1-0.2.9.jar",
+              "sha1": "875625c1042a21139f3931011cfcc7832df31a7d",
+              "size": 286502
+            },
+            {
+              "path": "mods/flickerfix-1.21.1-6.1.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/flickerfix-1.21.1-6.1.0.jar",
+              "sha1": "3eadf069d9eeb7fb4e2295828a8aaefe6691d96d",
+              "size": 4566
+            },
+            {
+              "path": "mods/FpsReducer2-neoforge-1.21-2.10.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/FpsReducer2-neoforge-1.21-2.10.jar",
+              "sha1": "edb3e8d90992aae937c79827282f854f4cc5939c",
+              "size": 143137
+            },
+            {
+              "path": "mods/freecam-neoforge-1.3.0+mc1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/freecam-neoforge-1.3.0%2Bmc1.21.jar",
+              "sha1": "428eee42f39e6f4c36a3fed2fc127ee9cbd5fa0c",
+              "size": 1137632
+            },
+            {
+              "path": "mods/ftbbackups2-neoforge-1.21-1.0.28.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftbbackups2-neoforge-1.21-1.0.28.jar",
+              "sha1": "878753a228d620c51b2f7a521867cab78fa259fc",
+              "size": 1936882
+            },
+            {
+              "path": "mods/ftb-chunks-neoforge-2101.1.23.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftb-chunks-neoforge-2101.1.23.jar",
+              "sha1": "a99a51ef8e413af26ee32c4d33a11526fccdd1d1",
+              "size": 671413
+            },
+            {
+              "path": "mods/ftb-filter-system-neoforge-21.1.4.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftb-filter-system-neoforge-21.1.4.jar",
+              "sha1": "a48e54edeacc59aaba29a1b627799c052112ee0b",
+              "size": 211671
+            },
+            {
+              "path": "mods/ftb-jei-extras-21.1.7.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftb-jei-extras-21.1.7.jar",
+              "sha1": "ef01126201a805991bbfe5351cff7d0a9e3a077b",
+              "size": 69759
+            },
+            {
+              "path": "mods/ftb-library-neoforge-2101.1.39.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftb-library-neoforge-2101.1.39.jar",
+              "sha1": "ff852d99ade215fb892369687d0634ecf0bca6ae",
+              "size": 1477833
+            },
+            {
+              "path": "mods/ftb-quests-neoforge-2101.1.38.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftb-quests-neoforge-2101.1.38.jar",
+              "sha1": "389fb269d338ed4c7f14f945a07759b6d444af40",
+              "size": 1635517
+            },
+            {
+              "path": "mods/ftb-teams-neoforge-2101.1.12.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftb-teams-neoforge-2101.1.12.jar",
+              "sha1": "9c831fbbbccf2178827c3ccf278b2f2a0ce57306",
+              "size": 308430
+            },
+            {
+              "path": "mods/ftb-ultimine-neoforge-2101.1.15.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ftb-ultimine-neoforge-2101.1.15.jar",
+              "sha1": "c96a7cc0b52bf919660ea61c1536cebd9d5773b3",
+              "size": 177109
+            },
+            {
+              "path": "mods/fullbrightnesstoggle-1.21.1-4.9.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/fullbrightnesstoggle-1.21.1-4.9.jar",
+              "sha1": "9c753d508389b7077a1b4658d3521275b7db13d6",
+              "size": 42617
+            },
+            {
+              "path": "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+              "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
+              "size": 2392720,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa04a2ddbce2f50b21d667d2f3e589f9e043e472/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa04a2ddbce2f50b21d667d2f3e589f9e043e472/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa04a2ddbce2f50b21d667d2f3e589f9e043e472/2"
+              ]
+            },
+            {
+              "path": "mods/GatewaysToEternity-1.21.1-5.1.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/GatewaysToEternity-1.21.1-5.1.0.jar",
+              "sha1": "f91a593378209f527fe81e731ca60fe8f8da2319",
+              "size": 646451
+            },
+            {
+              "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+              "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+              "size": 634531
+            },
+            {
+              "path": "mods/Glodium-1.21-2.2-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Glodium-1.21-2.2-neoforge.jar",
+              "sha1": "9f61a3162665ad0b37f6f268339ac98097af1a87",
+              "size": 61377
+            },
+            {
+              "path": "mods/gpumemleakfix-1.21-1.8.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/gpumemleakfix-1.21-1.8.jar",
+              "sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208",
+              "size": 6574
+            },
+            {
+              "path": "mods/GPUTape-1.20.6-1.21x-1.0.3.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/GPUTape-1.20.6-1.21x-1.0.3.jar",
+              "sha1": "96d8f1df0f08e169396b603c42cf997e9081de59",
+              "size": 16669
+            },
+            {
+              "path": "mods/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+              "sha1": "244d8b57aa7d34e247f3dd09cacf647a9ba1cfab",
+              "size": 40188
+            },
+            {
+              "path": "mods/guideme-21.1.22.jar",
+              "sha1": "eb2f531c91566a0f119b4b3a3acd927b48b6b27e",
+              "size": 9332340,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/eb2f531c91566a0f119b4b3a3acd927b48b6b27e/8"
+              ]
+            },
+            {
+              "path": "mods/HellishTrials-neoforge-1.0.5.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/HellishTrials-neoforge-1.0.5.jar",
+              "sha1": "0c03bf04e99b3e8a310c9f5b6f3e7613e3b69528",
+              "size": 581988
+            },
+            {
+              "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
+              "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+              "size": 368896
+            },
+            {
+              "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+              "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+              "size": 2540723,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/1bd129cf7bce65d6b1c0543045f0620c98a0f885/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/1bd129cf7bce65d6b1c0543045f0620c98a0f885/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/1bd129cf7bce65d6b1c0543045f0620c98a0f885/2"
+              ]
+            },
+            {
+              "path": "mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+              "sha1": "9a40f949ec9794cdef79bdabb61a12a918613194",
+              "size": 576866
+            },
+            {
+              "path": "mods/itemcollectors-1.1.10-neoforge-mc1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/itemcollectors-1.1.10-neoforge-mc1.21.jar",
+              "sha1": "2019bdbb89da0f61ce40448164bdd9a5b13cb2d7",
+              "size": 100837
+            },
+            {
+              "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+              "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+              "size": 726853
+            },
+            {
+              "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+              "sha1": "479b327078f8f0091e2413675d1236c931f68cf4",
+              "size": 82315
+            },
+            {
+              "path": "mods/jamlib-neoforge-1.3.6+1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/jamlib-neoforge-1.3.6%2B1.21.1.jar",
+              "sha1": "0e422dd29b3f82eaf2a450a0370ace82b8d00f82",
+              "size": 188553
+            },
+            {
+              "path": "mods/jei-1.21.1-neoforge-19.64.0.455.jar",
+              "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a",
+              "size": 2375741,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f6d6fc08d54c40752926b570a2220471e8c45c1a/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f6d6fc08d54c40752926b570a2220471e8c45c1a/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f6d6fc08d54c40752926b570a2220471e8c45c1a/2"
+              ]
+            },
+            {
+              "path": "mods/jeistuff-1.21.1-1.4.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/jeistuff-1.21.1-1.4.0.jar",
+              "sha1": "b82df5cb3d805af4a4f27d38e30750f0ae48d09d",
+              "size": 233925
+            },
+            {
+              "path": "mods/justenoughbreeding-neoforge-1.21.1-3.3.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/justenoughbreeding-neoforge-1.21.1-3.3.1.jar",
+              "sha1": "f75b1bc60dcdc6045b01e1f37746320a8c8ade67",
+              "size": 626813
+            },
+            {
+              "path": "mods/JustEnoughMekanismMultiblocks-1.21.1-7.23.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/JustEnoughMekanismMultiblocks-1.21.1-7.23.jar",
+              "sha1": "b991df7554af8532d507eeccdef3797bec78f958",
+              "size": 246040
+            },
+            {
+              "path": "mods/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+              "sha1": "439ea1baa5e3065e36e0e57422f22403918bb59f",
+              "size": 24879
+            },
+            {
+              "path": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
+              "sha1": "780235af90127bd07bc168333add2ee7b02d5ea3",
+              "size": 292338
+            },
+            {
+              "path": "mods/just-hammers-neoforge-21.1.4.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/just-hammers-neoforge-21.1.4.jar",
+              "sha1": "9db9f80eeb27ab968b989f4b9b0f4ab88af6ec01",
+              "size": 102133
+            },
+            {
+              "path": "mods/justzoom_neoforge_3.1.0_MC_1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/justzoom_neoforge_3.1.0_MC_1.21.1.jar",
+              "sha1": "e8eb95e2ff3730a9cf0491b1221745e4b6eb4d45",
+              "size": 168109
+            },
+            {
+              "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+              "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+              "size": 618842
+            },
+            {
+              "path": "mods/kotlinforforge-5.12.0-all.jar",
+              "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b",
+              "size": 7279276,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/a2032c921e93a0ccb0db5d742167e3139c2de01b/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/a2032c921e93a0ccb0db5d742167e3139c2de01b/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/a2032c921e93a0ccb0db5d742167e3139c2de01b/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/a2032c921e93a0ccb0db5d742167e3139c2de01b/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/a2032c921e93a0ccb0db5d742167e3139c2de01b/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/a2032c921e93a0ccb0db5d742167e3139c2de01b/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/a2032c921e93a0ccb0db5d742167e3139c2de01b/6"
+              ]
+            },
+            {
+              "path": "mods/Ksyxis-1.4.6.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Ksyxis-1.4.6.jar",
+              "sha1": "6de6271329e0c83e3ccc0512a0d3cfcc3e790d3f",
+              "size": 23873
+            },
+            {
+              "path": "mods/kubejs-neoforge-2101.7.2-build.381.jar",
+              "sha1": "c795402c73988ed0c03ce61767f9606aa1d606d8",
+              "size": 2295092,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c795402c73988ed0c03ce61767f9606aa1d606d8/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c795402c73988ed0c03ce61767f9606aa1d606d8/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c795402c73988ed0c03ce61767f9606aa1d606d8/2"
+              ]
+            },
+            {
+              "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
+              "sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133",
+              "size": 73375667,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/10",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/11",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/12",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/13",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/14",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/15",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/16",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/17",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/18",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/19",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/20",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/21",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/22",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/23",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/24",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/25",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/26",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/27",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/28",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/29",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/30",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/31",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/32",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/33",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/34",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/35",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/36",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/37",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/38",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/39",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/40",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/41",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/42",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/43",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/44",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/45",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/46",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/47",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/48",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/49",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/50",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/51",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/52",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/53",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/54",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/55",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/56",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/57",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/58",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/59",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/60",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/61",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/62",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/63",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/64",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/65",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/66",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/67",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/68",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f0310277167c82fd16a5c2bab220b5c5c262f133/69"
+              ]
+            },
+            {
+              "path": "mods/LibX-1.21.1-6.0.15.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/LibX-1.21.1-6.0.15.jar",
+              "sha1": "2361a1abbb4a55dd729fb90c6df41d31864dacc6",
+              "size": 1263056
+            },
+            {
+              "path": "mods/lionfishapi-3.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/lionfishapi-3.1.jar",
+              "sha1": "353ca00ed118eb67cf11085abbbd699884722326",
+              "size": 91596
+            },
+            {
+              "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+              "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+              "size": 774220
+            },
+            {
+              "path": "mods/lootintegrations-1.21.1-4.7.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/lootintegrations-1.21.1-4.7.jar",
+              "sha1": "ba601fe630f444d974838bfd80a185a0e3e0309c",
+              "size": 36966
+            },
+            {
+              "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+              "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+              "size": 1075929
+            },
+            {
+              "path": "mods/manadrill-1.7.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/manadrill-1.7.0.jar",
+              "sha1": "f76ece76a9d9395e872cf0762aed9af69b4e4dbe",
+              "size": 98494
+            },
+            {
+              "path": "mods/MasterfulBotany-1.21.1-1.0.2-NeoForge.jar",
+              "sha1": "35c6a38805ee0b6fcabd266d3eacfaadc93d66b2",
+              "size": 2367560,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/35c6a38805ee0b6fcabd266d3eacfaadc93d66b2/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/35c6a38805ee0b6fcabd266d3eacfaadc93d66b2/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/35c6a38805ee0b6fcabd266d3eacfaadc93d66b2/2"
+              ]
+            },
+            {
+              "path": "mods/megacells-4.11.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/megacells-4.11.0.jar",
+              "sha1": "f0b1a44bf30c8a9e14e2fa7fce37360191aa55e8",
+              "size": 1137276
+            },
+            {
+              "path": "mods/Mekanism Pipez Fix-1.21.1-1.0.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Mekanism%20Pipez%20Fix-1.21.1-1.0.0.jar",
+              "sha1": "315d8c80304d3b3b188412ef852f4a940118c5f5",
+              "size": 18068
+            },
+            {
+              "path": "mods/mekanism_extras-1.21.1-1.4.2.jar",
+              "sha1": "aa4d6ddb0d25c596ccb7c369b3d2b6110a9867b1",
+              "size": 2526178,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa4d6ddb0d25c596ccb7c369b3d2b6110a9867b1/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa4d6ddb0d25c596ccb7c369b3d2b6110a9867b1/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/aa4d6ddb0d25c596ccb7c369b3d2b6110a9867b1/2"
+              ]
+            },
+            {
+              "path": "mods/Mekanism-1.21.1-10.7.19.85.jar",
+              "sha1": "b78945c40cfe7640408f3fd1e44da385a8c8b805",
+              "size": 11976009,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/10",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/b78945c40cfe7640408f3fd1e44da385a8c8b805/11"
+              ]
+            },
+            {
+              "path": "mods/mekanismadvancedgenerators-neoforge-1.21.1-2.3.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/mekanismadvancedgenerators-neoforge-1.21.1-2.3.2.jar",
+              "sha1": "770dff9f91b1ab1a04ade5d44f5e7d7fe2baba8f",
+              "size": 464529
+            },
+            {
+              "path": "mods/MekanismGenerators-1.21.1-10.7.19.85.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/MekanismGenerators-1.21.1-10.7.19.85.jar",
+              "sha1": "44c4d8006597580ff7e4101b5a22f7b426cdcaf6",
+              "size": 1114598
+            },
+            {
+              "path": "mods/MekanismTools-1.21.1-10.7.19.85.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/MekanismTools-1.21.1-10.7.19.85.jar",
+              "sha1": "4433b3eec0a5a0bf415d873e710a1cecea5850bc",
+              "size": 526620
+            },
+            {
+              "path": "mods/mekmm-1.21.1-1.4.2.jar",
+              "sha1": "bdda7b8a6acc9d59a36a98f83883b24876acf06c",
+              "size": 3765531,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bdda7b8a6acc9d59a36a98f83883b24876acf06c/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bdda7b8a6acc9d59a36a98f83883b24876acf06c/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bdda7b8a6acc9d59a36a98f83883b24876acf06c/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bdda7b8a6acc9d59a36a98f83883b24876acf06c/3"
+              ]
+            },
+            {
+              "path": "mods/memorysettings-1.21-6.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/memorysettings-1.21-6.0.jar",
+              "sha1": "cf94148dab1e03ee5c737657efe0371f1132a145",
+              "size": 22329
+            },
+            {
+              "path": "mods/merequester-neoforge-1.21.1-1.5.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/merequester-neoforge-1.21.1-1.5.0.jar",
+              "sha1": "4c651fa3934775bb4f3e2e8768d39b543f4a3cae",
+              "size": 186826
+            },
+            {
+              "path": "mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+              "sha1": "2382e29c9a0f44d4f4b9baa4cb3f6a356e048e60",
+              "size": 347249
+            },
+            {
+              "path": "mods/mi-tweaks-1.9.6-1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/mi-tweaks-1.9.6-1.21.1.jar",
+              "sha1": "c8fb2acf6d814a65bc39f34de85a27b6c8e28aec",
+              "size": 553277
+            },
+            {
+              "path": "mods/Modern-Industrialization-2.5.12.jar",
+              "sha1": "20be5747c0c7f175f691f77de6df055be86d1a7a",
+              "size": 7311721,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/20be5747c0c7f175f691f77de6df055be86d1a7a/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/20be5747c0c7f175f691f77de6df055be86d1a7a/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/20be5747c0c7f175f691f77de6df055be86d1a7a/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/20be5747c0c7f175f691f77de6df055be86d1a7a/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/20be5747c0c7f175f691f77de6df055be86d1a7a/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/20be5747c0c7f175f691f77de6df055be86d1a7a/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/20be5747c0c7f175f691f77de6df055be86d1a7a/6"
+              ]
+            },
+            {
+              "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+              "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+              "size": 73938
+            },
+            {
+              "path": "mods/MysticalAgradditions-1.21.1-8.0.15.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/MysticalAgradditions-1.21.1-8.0.15.jar",
+              "sha1": "be6e652de107065342aa3f98945cc5b0b3fa000c",
+              "size": 318385
+            },
+            {
+              "path": "mods/MysticalAgriculture-1.21.1-8.0.29.jar",
+              "sha1": "4a774506f65899683aa40b92fec972ddcc4fdc4f",
+              "size": 2328280,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/4a774506f65899683aa40b92fec972ddcc4fdc4f/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/4a774506f65899683aa40b92fec972ddcc4fdc4f/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/4a774506f65899683aa40b92fec972ddcc4fdc4f/2"
+              ]
+            },
+            {
+              "path": "mods/MysticalCustomization-1.21.1-6.0.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/MysticalCustomization-1.21.1-6.0.2.jar",
+              "sha1": "483c44e51b8f4c8dd24c239f945a819da766d219",
+              "size": 49374
+            },
+            {
+              "path": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+              "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95",
+              "size": 224657
+            },
+            {
+              "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+              "sha1": "7cf40ec774392823e709da7659a6d4a5a04c8c9d",
+              "size": 211972
+            },
+            {
+              "path": "mods/nyctography-neoforge-1.21.1-21.1.8.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/nyctography-neoforge-1.21.1-21.1.8.jar",
+              "sha1": "a53339baa2e3837fea0db17ef4b2437916e762dd",
+              "size": 59132
+            },
+            {
+              "path": "mods/OctoLib-NEOFORGE-0.6.3.2-1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/OctoLib-NEOFORGE-0.6.3.2-1.21.jar",
+              "sha1": "8d6fb9f6702dbba1e6143ac36c571f54c981b005",
+              "size": 545732
+            },
+            {
+              "path": "mods/oritech-neoforge-1.21.1-1.2.13.jar",
+              "sha1": "12515c78b29976bd25077deb7427852f63879ddc",
+              "size": 11000860,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/12515c78b29976bd25077deb7427852f63879ddc/10"
+              ]
+            },
+            {
+              "path": "mods/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+              "sha1": "a9dea4b9ef893fc955512ff2dee75c9c82e09a52",
+              "size": 78482
+            },
+            {
+              "path": "mods/particle_core-0.3.3+1.21+neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/particle_core-0.3.3%2B1.21%2Bneoforge.jar",
+              "sha1": "f859d68818e522fb00056d3ed1603ca4300eb681",
+              "size": 138375
+            },
+            {
+              "path": "mods/particlerain-4.0.3-1.21.1-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/particlerain-4.0.3-1.21.1-neoforge.jar",
+              "sha1": "d1b6bb30d56d29b6f850bfbd29d45fc5e3bcaf02",
+              "size": 623684
+            },
+            {
+              "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+              "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+              "size": 646777
+            },
+            {
+              "path": "mods/pigpen-neoforge-1.21.1-21.1.5.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/pigpen-neoforge-1.21.1-21.1.5.jar",
+              "sha1": "533ff49a9ef54bc0c0e3d5daec4d88fdbabbd533",
+              "size": 39468
+            },
+            {
+              "path": "mods/pipez-neoforge-1.21.1-1.2.31.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/pipez-neoforge-1.21.1-1.2.31.jar",
+              "sha1": "a5671f7e8d38dfc092ace4091250e8f9e1245e1e",
+              "size": 456599
+            },
+            {
+              "path": "mods/Placebo-1.21.1-9.9.4.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Placebo-1.21.1-9.9.4.jar",
+              "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
+              "size": 326063
+            },
+            {
+              "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+              "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+              "size": 203149
+            },
+            {
+              "path": "mods/polylib-2100.1.0-build.183-neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/polylib-2100.1.0-build.183-neoforge.jar",
+              "sha1": "2e77cd8a795c3171d8327e6b1f1b6413565c8da1",
+              "size": 1299974
+            },
+            {
+              "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+              "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+              "size": 174972
+            },
+            {
+              "path": "mods/Powah-6.2.10.jar",
+              "sha1": "f134ab3e0ace3793abf93129e318eb817898a4e1",
+              "size": 2737991,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f134ab3e0ace3793abf93129e318eb817898a4e1/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f134ab3e0ace3793abf93129e318eb817898a4e1/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f134ab3e0ace3793abf93129e318eb817898a4e1/2"
+              ]
+            },
+            {
+              "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/prickle-neoforge-1.21.1-21.1.11.jar",
+              "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+              "size": 84812
+            },
+            {
+              "path": "mods/ProjectE-1.21.1-PE1.1.0.jar",
+              "sha1": "24fb5997727453a15e956522761a3f586e646c2a",
+              "size": 2426228,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/24fb5997727453a15e956522761a3f586e646c2a/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/24fb5997727453a15e956522761a3f586e646c2a/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/24fb5997727453a15e956522761a3f586e646c2a/2"
+              ]
+            },
+            {
+              "path": "mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/puzzleslib-v21.1.66-mc1.21.1%2Bneoforge.jar",
+              "sha1": "fd584167f1277aef5411a98a22390c65cabe6e07",
+              "size": 1451120
+            },
+            {
+              "path": "mods/Re-Avaritia-neoforge-1.21.1-1.4.4-release.jar",
+              "sha1": "05200f01a284db738bbed70fa876adf16b5aace4",
+              "size": 3786725,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/05200f01a284db738bbed70fa876adf16b5aace4/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/05200f01a284db738bbed70fa876adf16b5aace4/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/05200f01a284db738bbed70fa876adf16b5aace4/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/05200f01a284db738bbed70fa876adf16b5aace4/3"
+              ]
+            },
+            {
+              "path": "mods/recipeessentials-1.21.1-4.7.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/recipeessentials-1.21.1-4.7.jar",
+              "sha1": "77c1796d445683b237b7391fe277388cd2ea0ee7",
+              "size": 43983
+            },
+            {
+              "path": "mods/refinedstorage-mekanism-integration-1.2.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/refinedstorage-mekanism-integration-1.2.0.jar",
+              "sha1": "2f153a2fe42a72897d114903dd38f654c2ba73f9",
+              "size": 163632
+            },
+            {
+              "path": "mods/refinedstorage-neoforge-2.0.9.jar",
+              "sha1": "bf05b983968e75b5466a270c68d1fdc7ba2a5e77",
+              "size": 4360871,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bf05b983968e75b5466a270c68d1fdc7ba2a5e77/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bf05b983968e75b5466a270c68d1fdc7ba2a5e77/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bf05b983968e75b5466a270c68d1fdc7ba2a5e77/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bf05b983968e75b5466a270c68d1fdc7ba2a5e77/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/bf05b983968e75b5466a270c68d1fdc7ba2a5e77/4"
+              ]
+            },
+            {
+              "path": "mods/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+              "sha1": "9cef673570c599ef6ab37934285e79f93e8640c4",
+              "size": 67115
+            },
+            {
+              "path": "mods/relics-1.21.1-0.10.7.8.jar",
+              "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528",
+              "size": 2753166,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/7f7fd59273ac5ef6511a811518bc9af01705a528/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/7f7fd59273ac5ef6511a811518bc9af01705a528/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/7f7fd59273ac5ef6511a811518bc9af01705a528/2"
+              ]
+            },
+            {
+              "path": "mods/reliquary-1.21.1-2.0.85.1599.jar",
+              "sha1": "98a0992eb4f5e287af0e60caba8eaa85f8e50969",
+              "size": 2240167,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/98a0992eb4f5e287af0e60caba8eaa85f8e50969/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/98a0992eb4f5e287af0e60caba8eaa85f8e50969/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/98a0992eb4f5e287af0e60caba8eaa85f8e50969/2"
+              ]
+            },
+            {
+              "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+              "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
+              "size": 341009
+            },
+            {
+              "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+              "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+              "size": 484332
+            },
+            {
+              "path": "mods/rhino-2101.2.7-build.85.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/rhino-2101.2.7-build.85.jar",
+              "sha1": "370598a1d2321c8a705ce539eb970375f20150c3",
+              "size": 882075
+            },
+            {
+              "path": "mods/rightclickharvest-neoforge-4.7.0-1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/rightclickharvest-neoforge-4.7.0-1.21.1.jar",
+              "sha1": "10d4c344d3f0862d802cbc358098f64fd451b95a",
+              "size": 288105
+            },
+            {
+              "path": "mods/rsrequestify-1.21.1-3.0.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/rsrequestify-1.21.1-3.0.0.jar",
+              "sha1": "a482e2f7a535adde55ea6125a3f53f385d3a75ea",
+              "size": 72172
+            },
+            {
+              "path": "mods/runelic-neoforge-1.21.1-21.1.5.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/runelic-neoforge-1.21.1-21.1.5.jar",
+              "sha1": "5f9ad64e60872f37a9eca99a6efecccdfb7fd083",
+              "size": 67386
+            },
+            {
+              "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+              "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+              "size": 77326
+            },
+            {
+              "path": "mods/simplylight-1.5.3+1.21.1-b4.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/simplylight-1.5.3%2B1.21.1-b4.jar",
+              "sha1": "d85bfed3824cb66d258acf11c73edaf11d583223",
+              "size": 1103352
+            },
+            {
+              "path": "mods/snowundertrees-1.21.1-1.5.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/snowundertrees-1.21.1-1.5.1.jar",
+              "sha1": "5b6a85a2a833c6c6a5337e3fb720dba1a4d073aa",
+              "size": 30512
+            },
+            {
+              "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+              "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+              "size": 1292934
+            },
+            {
+              "path": "mods/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+              "sha1": "d8858c4135c4be4b8f9db7454bb0086b40ddae9f",
+              "size": 1265683
+            },
+            {
+              "path": "mods/sophisticatedcore-1.21.1-1.5.35.2473.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/sophisticatedcore-1.21.1-1.5.35.2473.jar",
+              "sha1": "a881afeeadfa9f0078dad6bc77dce3f0b422b954",
+              "size": 1854505
+            },
+            {
+              "path": "mods/sophisticatedstorage-1.21.1-1.6.18.2229.jar",
+              "sha1": "7b6b98482d8f1f7d1f586c601eb4eae652b63bed",
+              "size": 2097233,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/7b6b98482d8f1f7d1f586c601eb4eae652b63bed/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/7b6b98482d8f1f7d1f586c601eb4eae652b63bed/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/7b6b98482d8f1f7d1f586c601eb4eae652b63bed/2"
+              ]
+            },
+            {
+              "path": "mods/soundofrain-0.6.1.jar",
+              "sha1": "c79be87e9f7c2deb1adae0c52f31013ee79282bd",
+              "size": 7636499,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/c79be87e9f7c2deb1adae0c52f31013ee79282bd/7"
+              ]
+            },
+            {
+              "path": "mods/spark-1.10.124-neoforge.jar",
+              "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+              "size": 3642581,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9430cc2ab64ff89d698be593769fb9f9ee4efae6/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9430cc2ab64ff89d698be593769fb9f9ee4efae6/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9430cc2ab64ff89d698be593769fb9f9ee4efae6/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9430cc2ab64ff89d698be593769fb9f9ee4efae6/3"
+              ]
+            },
+            {
+              "path": "mods/structurize-1.0.839-1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/structurize-1.0.839-1.21.1.jar",
+              "sha1": "2959f37afb78e987dcf7b7279ce7322baff308e1",
+              "size": 1064211
+            },
+            {
+              "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+              "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574",
+              "size": 207514
+            },
+            {
+              "path": "mods/supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+              "sha1": "519506ced4c9126e1fbb2c7999636eec7d417e39",
+              "size": 593442
+            },
+            {
+              "path": "mods/tesseract-api-neoforge-1.12.21-1.21.1.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/tesseract-api-neoforge-1.12.21-1.21.1.jar",
+              "sha1": "d6386b053fa25294b5a6d92aa3f36cadb92668b4",
+              "size": 771541
+            },
+            {
+              "path": "mods/tiab-neoforge-6.5.4.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/tiab-neoforge-6.5.4.jar",
+              "sha1": "3e6beaac5dbc48627263fee0a864db16eda53529",
+              "size": 77755
+            },
+            {
+              "path": "mods/titanium-1.21-4.0.52.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/titanium-1.21-4.0.52.jar",
+              "sha1": "b46f625333c9c570eed9962a355f37687d39e731",
+              "size": 608119
+            },
+            {
+              "path": "mods/toofast-1.21.0-0.4.3.6.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/toofast-1.21.0-0.4.3.6.jar",
+              "sha1": "4a1f4307fc8dea95667fe88c8d39f87e2b370643",
+              "size": 3372
+            },
+            {
+              "path": "mods/torchmaster-neoforge-1.21.1-21.1.13.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/torchmaster-neoforge-1.21.1-21.1.13.jar",
+              "sha1": "b139713195dc65bbe66dcdbde87a0d84aa407b5a",
+              "size": 161205
+            },
+            {
+              "path": "mods/trashcans-1.1.2-neoforge-mc1.21.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/trashcans-1.1.2-neoforge-mc1.21.jar",
+              "sha1": "f165900a2a9de539da47ea0609a5c303e4625679",
+              "size": 169363
+            },
+            {
+              "path": "mods/travelersbackpack-neoforge-1.21.1-10.1.41.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/travelersbackpack-neoforge-1.21.1-10.1.41.jar",
+              "sha1": "a7f629c076aa02badd255ac15e5ebd2eef5717a2",
+              "size": 1444892
+            },
+            {
+              "path": "mods/trueexcalibur-1.0.0.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/trueexcalibur-1.0.0.jar",
+              "sha1": "8c35ae28ecbeedfbf40bfcba21bb99c33de442e1",
+              "size": 72536
+            },
+            {
+              "path": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
+              "sha1": "9cfd4154928433e2f1f6cfc3deb48c284debb580",
+              "size": 27154121,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/10",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/11",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/12",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/13",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/14",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/15",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/16",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/17",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/18",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/19",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/20",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/21",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/22",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/23",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/24",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/9cfd4154928433e2f1f6cfc3deb48c284debb580/25"
+              ]
+            },
+            {
+              "path": "mods/txnilib-neoforge-1.0.24-1.21.1.jar",
+              "sha1": "17b1bbb96e922e683a1807a2e7bece603fdc491d",
+              "size": 6276522,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/17b1bbb96e922e683a1807a2e7bece603fdc491d/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/17b1bbb96e922e683a1807a2e7bece603fdc491d/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/17b1bbb96e922e683a1807a2e7bece603fdc491d/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/17b1bbb96e922e683a1807a2e7bece603fdc491d/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/17b1bbb96e922e683a1807a2e7bece603fdc491d/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/17b1bbb96e922e683a1807a2e7bece603fdc491d/5"
+              ]
+            },
+            {
+              "path": "mods/unbound-neoforge-1.21.1-0.16.1.jar",
+              "sha1": "f8c150af8043c72ddea1ba2a53599edccb35a19f",
+              "size": 26382827,
+              "parts": [
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/0",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/1",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/2",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/3",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/4",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/5",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/6",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/7",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/8",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/9",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/10",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/11",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/12",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/13",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/14",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/15",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/16",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/17",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/18",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/19",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/20",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/21",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/22",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/23",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/24",
+                "https://animazeros.github.io/packs/site-e84e90e6/parts/f8c150af8043c72ddea1ba2a53599edccb35a19f/25"
+              ]
+            },
+            {
+              "path": "mods/universalgrid-neoforge-1.21.1-0.3.3.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/universalgrid-neoforge-1.21.1-0.3.3.jar",
+              "sha1": "9c4a5d46f7e6f7cc00d63fa42e0db8f50ecc0e8c",
+              "size": 96720
+            },
+            {
+              "path": "mods/Zeta-1.1-40.jar",
+              "url": "https://animazeros.github.io/packs/site-e84e90e6/files/mods/Zeta-1.1-40.jar",
+              "sha1": "72f6efe421cfc0547c774ae8241d727b7d996754",
+              "size": 763725
+            }
+          ],
+          "overrides": "https://animazeros.github.io/packs/site-e84e90e6/1.0.0-overrides.zip"
+        }
+      ],
+      "name": "AnimaTrue",
+      "minecraft": "1.21.1",
+      "loader": {
+        "type": "neoforge",
+        "version": "21.1.240"
+      }
+    }
+  ]
 }
